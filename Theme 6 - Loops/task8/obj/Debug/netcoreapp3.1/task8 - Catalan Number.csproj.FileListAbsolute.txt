@@ -1,0 +1,13 @@
+C:\Users\georg\source\repos\Softuni - Fundamentals with C# (Book)\Theme 6 - Loops\task8\bin\Debug\netcoreapp3.1\task8 - Catalan Number.exe
+C:\Users\georg\source\repos\Softuni - Fundamentals with C# (Book)\Theme 6 - Loops\task8\bin\Debug\netcoreapp3.1\task8 - Catalan Number.deps.json
+C:\Users\georg\source\repos\Softuni - Fundamentals with C# (Book)\Theme 6 - Loops\task8\bin\Debug\netcoreapp3.1\task8 - Catalan Number.runtimeconfig.json
+C:\Users\georg\source\repos\Softuni - Fundamentals with C# (Book)\Theme 6 - Loops\task8\bin\Debug\netcoreapp3.1\task8 - Catalan Number.runtimeconfig.dev.json
+C:\Users\georg\source\repos\Softuni - Fundamentals with C# (Book)\Theme 6 - Loops\task8\bin\Debug\netcoreapp3.1\task8 - Catalan Number.dll
+C:\Users\georg\source\repos\Softuni - Fundamentals with C# (Book)\Theme 6 - Loops\task8\bin\Debug\netcoreapp3.1\task8 - Catalan Number.pdb
+C:\Users\georg\source\repos\Softuni - Fundamentals with C# (Book)\Theme 6 - Loops\task8\obj\Debug\netcoreapp3.1\task8 - Catalan Number.csprojAssemblyReference.cache
+C:\Users\georg\source\repos\Softuni - Fundamentals with C# (Book)\Theme 6 - Loops\task8\obj\Debug\netcoreapp3.1\task8 - Catalan Number.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\Softuni - Fundamentals with C# (Book)\Theme 6 - Loops\task8\obj\Debug\netcoreapp3.1\task8 - Catalan Number.AssemblyInfo.cs
+C:\Users\georg\source\repos\Softuni - Fundamentals with C# (Book)\Theme 6 - Loops\task8\obj\Debug\netcoreapp3.1\task8 - Catalan Number.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\Softuni - Fundamentals with C# (Book)\Theme 6 - Loops\task8\obj\Debug\netcoreapp3.1\task8 - Catalan Number.dll
+C:\Users\georg\source\repos\Softuni - Fundamentals with C# (Book)\Theme 6 - Loops\task8\obj\Debug\netcoreapp3.1\task8 - Catalan Number.pdb
+C:\Users\georg\source\repos\Softuni - Fundamentals with C# (Book)\Theme 6 - Loops\task8\obj\Debug\netcoreapp3.1\task8 - Catalan Number.genruntimeconfig.cache
