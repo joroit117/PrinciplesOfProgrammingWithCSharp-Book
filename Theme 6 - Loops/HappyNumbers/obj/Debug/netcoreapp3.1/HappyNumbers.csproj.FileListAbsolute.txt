@@ -1,0 +1,13 @@
+C:\Users\georg\source\repos\Softuni - Fundamentals with C# (Book)\Theme 6 - Loops\HappyNumbers\bin\Debug\netcoreapp3.1\HappyNumbers.exe
+C:\Users\georg\source\repos\Softuni - Fundamentals with C# (Book)\Theme 6 - Loops\HappyNumbers\bin\Debug\netcoreapp3.1\HappyNumbers.deps.json
+C:\Users\georg\source\repos\Softuni - Fundamentals with C# (Book)\Theme 6 - Loops\HappyNumbers\bin\Debug\netcoreapp3.1\HappyNumbers.runtimeconfig.json
+C:\Users\georg\source\repos\Softuni - Fundamentals with C# (Book)\Theme 6 - Loops\HappyNumbers\bin\Debug\netcoreapp3.1\HappyNumbers.runtimeconfig.dev.json
+C:\Users\georg\source\repos\Softuni - Fundamentals with C# (Book)\Theme 6 - Loops\HappyNumbers\bin\Debug\netcoreapp3.1\HappyNumbers.dll
+C:\Users\georg\source\repos\Softuni - Fundamentals with C# (Book)\Theme 6 - Loops\HappyNumbers\bin\Debug\netcoreapp3.1\HappyNumbers.pdb
+C:\Users\georg\source\repos\Softuni - Fundamentals with C# (Book)\Theme 6 - Loops\HappyNumbers\obj\Debug\netcoreapp3.1\HappyNumbers.csprojAssemblyReference.cache
+C:\Users\georg\source\repos\Softuni - Fundamentals with C# (Book)\Theme 6 - Loops\HappyNumbers\obj\Debug\netcoreapp3.1\HappyNumbers.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\Softuni - Fundamentals with C# (Book)\Theme 6 - Loops\HappyNumbers\obj\Debug\netcoreapp3.1\HappyNumbers.AssemblyInfo.cs
+C:\Users\georg\source\repos\Softuni - Fundamentals with C# (Book)\Theme 6 - Loops\HappyNumbers\obj\Debug\netcoreapp3.1\HappyNumbers.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\Softuni - Fundamentals with C# (Book)\Theme 6 - Loops\HappyNumbers\obj\Debug\netcoreapp3.1\HappyNumbers.dll
+C:\Users\georg\source\repos\Softuni - Fundamentals with C# (Book)\Theme 6 - Loops\HappyNumbers\obj\Debug\netcoreapp3.1\HappyNumbers.pdb
+C:\Users\georg\source\repos\Softuni - Fundamentals with C# (Book)\Theme 6 - Loops\HappyNumbers\obj\Debug\netcoreapp3.1\HappyNumbers.genruntimeconfig.cache
