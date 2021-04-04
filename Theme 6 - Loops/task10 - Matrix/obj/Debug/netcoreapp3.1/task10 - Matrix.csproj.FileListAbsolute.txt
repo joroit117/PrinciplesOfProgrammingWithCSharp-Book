@@ -1,0 +1,12 @@
+C:\Users\georg\source\repos\Softuni - Fundamentals with C# (Book)\Theme 6 - Loops\task10 - Matrix\bin\Debug\netcoreapp3.1\task10 - Matrix.exe
+C:\Users\georg\source\repos\Softuni - Fundamentals with C# (Book)\Theme 6 - Loops\task10 - Matrix\bin\Debug\netcoreapp3.1\task10 - Matrix.deps.json
+C:\Users\georg\source\repos\Softuni - Fundamentals with C# (Book)\Theme 6 - Loops\task10 - Matrix\bin\Debug\netcoreapp3.1\task10 - Matrix.runtimeconfig.json
+C:\Users\georg\source\repos\Softuni - Fundamentals with C# (Book)\Theme 6 - Loops\task10 - Matrix\bin\Debug\netcoreapp3.1\task10 - Matrix.runtimeconfig.dev.json
+C:\Users\georg\source\repos\Softuni - Fundamentals with C# (Book)\Theme 6 - Loops\task10 - Matrix\bin\Debug\netcoreapp3.1\task10 - Matrix.dll
+C:\Users\georg\source\repos\Softuni - Fundamentals with C# (Book)\Theme 6 - Loops\task10 - Matrix\bin\Debug\netcoreapp3.1\task10 - Matrix.pdb
+C:\Users\georg\source\repos\Softuni - Fundamentals with C# (Book)\Theme 6 - Loops\task10 - Matrix\obj\Debug\netcoreapp3.1\task10 - Matrix.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\Softuni - Fundamentals with C# (Book)\Theme 6 - Loops\task10 - Matrix\obj\Debug\netcoreapp3.1\task10 - Matrix.AssemblyInfo.cs
+C:\Users\georg\source\repos\Softuni - Fundamentals with C# (Book)\Theme 6 - Loops\task10 - Matrix\obj\Debug\netcoreapp3.1\task10 - Matrix.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\Softuni - Fundamentals with C# (Book)\Theme 6 - Loops\task10 - Matrix\obj\Debug\netcoreapp3.1\task10 - Matrix.dll
+C:\Users\georg\source\repos\Softuni - Fundamentals with C# (Book)\Theme 6 - Loops\task10 - Matrix\obj\Debug\netcoreapp3.1\task10 - Matrix.pdb
+C:\Users\georg\source\repos\Softuni - Fundamentals with C# (Book)\Theme 6 - Loops\task10 - Matrix\obj\Debug\netcoreapp3.1\task10 - Matrix.genruntimeconfig.cache

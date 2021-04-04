@@ -1,0 +1,12 @@
+C:\Users\georg\source\repos\Softuni - Fundamentals with C# (Book)\Theme 6 - Loops\task10\bin\Debug\netcoreapp3.1\task10.exe
+C:\Users\georg\source\repos\Softuni - Fundamentals with C# (Book)\Theme 6 - Loops\task10\bin\Debug\netcoreapp3.1\task10.deps.json
+C:\Users\georg\source\repos\Softuni - Fundamentals with C# (Book)\Theme 6 - Loops\task10\bin\Debug\netcoreapp3.1\task10.runtimeconfig.json
+C:\Users\georg\source\repos\Softuni - Fundamentals with C# (Book)\Theme 6 - Loops\task10\bin\Debug\netcoreapp3.1\task10.runtimeconfig.dev.json
+C:\Users\georg\source\repos\Softuni - Fundamentals with C# (Book)\Theme 6 - Loops\task10\bin\Debug\netcoreapp3.1\task10.dll
+C:\Users\georg\source\repos\Softuni - Fundamentals with C# (Book)\Theme 6 - Loops\task10\bin\Debug\netcoreapp3.1\task10.pdb
+C:\Users\georg\source\repos\Softuni - Fundamentals with C# (Book)\Theme 6 - Loops\task10\obj\Debug\netcoreapp3.1\task10.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\Softuni - Fundamentals with C# (Book)\Theme 6 - Loops\task10\obj\Debug\netcoreapp3.1\task10.AssemblyInfo.cs
+C:\Users\georg\source\repos\Softuni - Fundamentals with C# (Book)\Theme 6 - Loops\task10\obj\Debug\netcoreapp3.1\task10.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\Softuni - Fundamentals with C# (Book)\Theme 6 - Loops\task10\obj\Debug\netcoreapp3.1\task10.dll
+C:\Users\georg\source\repos\Softuni - Fundamentals with C# (Book)\Theme 6 - Loops\task10\obj\Debug\netcoreapp3.1\task10.pdb
+C:\Users\georg\source\repos\Softuni - Fundamentals with C# (Book)\Theme 6 - Loops\task10\obj\Debug\netcoreapp3.1\task10.genruntimeconfig.cache
