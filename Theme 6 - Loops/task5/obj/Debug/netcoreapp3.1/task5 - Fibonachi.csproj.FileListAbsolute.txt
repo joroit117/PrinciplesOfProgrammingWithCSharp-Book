@@ -1,0 +1,13 @@
+C:\Users\georg\source\repos\Softuni - Fundamentals with C# (Book)\Theme 6 - Loops\task5\bin\Debug\netcoreapp3.1\task5 - Fibonachi.exe
+C:\Users\georg\source\repos\Softuni - Fundamentals with C# (Book)\Theme 6 - Loops\task5\bin\Debug\netcoreapp3.1\task5 - Fibonachi.deps.json
+C:\Users\georg\source\repos\Softuni - Fundamentals with C# (Book)\Theme 6 - Loops\task5\bin\Debug\netcoreapp3.1\task5 - Fibonachi.runtimeconfig.json
+C:\Users\georg\source\repos\Softuni - Fundamentals with C# (Book)\Theme 6 - Loops\task5\bin\Debug\netcoreapp3.1\task5 - Fibonachi.runtimeconfig.dev.json
+C:\Users\georg\source\repos\Softuni - Fundamentals with C# (Book)\Theme 6 - Loops\task5\bin\Debug\netcoreapp3.1\task5 - Fibonachi.dll
+C:\Users\georg\source\repos\Softuni - Fundamentals with C# (Book)\Theme 6 - Loops\task5\bin\Debug\netcoreapp3.1\task5 - Fibonachi.pdb
+C:\Users\georg\source\repos\Softuni - Fundamentals with C# (Book)\Theme 6 - Loops\task5\obj\Debug\netcoreapp3.1\task5 - Fibonachi.csprojAssemblyReference.cache
+C:\Users\georg\source\repos\Softuni - Fundamentals with C# (Book)\Theme 6 - Loops\task5\obj\Debug\netcoreapp3.1\task5 - Fibonachi.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\Softuni - Fundamentals with C# (Book)\Theme 6 - Loops\task5\obj\Debug\netcoreapp3.1\task5 - Fibonachi.AssemblyInfo.cs
+C:\Users\georg\source\repos\Softuni - Fundamentals with C# (Book)\Theme 6 - Loops\task5\obj\Debug\netcoreapp3.1\task5 - Fibonachi.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\Softuni - Fundamentals with C# (Book)\Theme 6 - Loops\task5\obj\Debug\netcoreapp3.1\task5 - Fibonachi.dll
+C:\Users\georg\source\repos\Softuni - Fundamentals with C# (Book)\Theme 6 - Loops\task5\obj\Debug\netcoreapp3.1\task5 - Fibonachi.pdb
+C:\Users\georg\source\repos\Softuni - Fundamentals with C# (Book)\Theme 6 - Loops\task5\obj\Debug\netcoreapp3.1\task5 - Fibonachi.genruntimeconfig.cache
