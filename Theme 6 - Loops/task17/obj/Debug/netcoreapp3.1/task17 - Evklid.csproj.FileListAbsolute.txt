@@ -1,0 +1,12 @@
+C:\Users\georg\source\repos\Softuni - Fundamentals with C# (Book)\Theme 6 - Loops\task17\bin\Debug\netcoreapp3.1\task17 - Evklid.exe
+C:\Users\georg\source\repos\Softuni - Fundamentals with C# (Book)\Theme 6 - Loops\task17\bin\Debug\netcoreapp3.1\task17 - Evklid.deps.json
+C:\Users\georg\source\repos\Softuni - Fundamentals with C# (Book)\Theme 6 - Loops\task17\bin\Debug\netcoreapp3.1\task17 - Evklid.runtimeconfig.json
+C:\Users\georg\source\repos\Softuni - Fundamentals with C# (Book)\Theme 6 - Loops\task17\bin\Debug\netcoreapp3.1\task17 - Evklid.runtimeconfig.dev.json
+C:\Users\georg\source\repos\Softuni - Fundamentals with C# (Book)\Theme 6 - Loops\task17\bin\Debug\netcoreapp3.1\task17 - Evklid.dll
+C:\Users\georg\source\repos\Softuni - Fundamentals with C# (Book)\Theme 6 - Loops\task17\bin\Debug\netcoreapp3.1\task17 - Evklid.pdb
+C:\Users\georg\source\repos\Softuni - Fundamentals with C# (Book)\Theme 6 - Loops\task17\obj\Debug\netcoreapp3.1\task17 - Evklid.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\Softuni - Fundamentals with C# (Book)\Theme 6 - Loops\task17\obj\Debug\netcoreapp3.1\task17 - Evklid.AssemblyInfo.cs
+C:\Users\georg\source\repos\Softuni - Fundamentals with C# (Book)\Theme 6 - Loops\task17\obj\Debug\netcoreapp3.1\task17 - Evklid.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\Softuni - Fundamentals with C# (Book)\Theme 6 - Loops\task17\obj\Debug\netcoreapp3.1\task17 - Evklid.dll
+C:\Users\georg\source\repos\Softuni - Fundamentals with C# (Book)\Theme 6 - Loops\task17\obj\Debug\netcoreapp3.1\task17 - Evklid.pdb
+C:\Users\georg\source\repos\Softuni - Fundamentals with C# (Book)\Theme 6 - Loops\task17\obj\Debug\netcoreapp3.1\task17 - Evklid.genruntimeconfig.cache
