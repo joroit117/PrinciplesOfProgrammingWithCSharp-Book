@@ -1,0 +1,12 @@
+C:\Users\georg\source\repos\Theme 7 - Arrays\task5 - MaxSeries\bin\Debug\netcoreapp3.1\task5 - MaxSeries.exe
+C:\Users\georg\source\repos\Theme 7 - Arrays\task5 - MaxSeries\bin\Debug\netcoreapp3.1\task5 - MaxSeries.deps.json
+C:\Users\georg\source\repos\Theme 7 - Arrays\task5 - MaxSeries\bin\Debug\netcoreapp3.1\task5 - MaxSeries.runtimeconfig.json
+C:\Users\georg\source\repos\Theme 7 - Arrays\task5 - MaxSeries\bin\Debug\netcoreapp3.1\task5 - MaxSeries.runtimeconfig.dev.json
+C:\Users\georg\source\repos\Theme 7 - Arrays\task5 - MaxSeries\bin\Debug\netcoreapp3.1\task5 - MaxSeries.dll
+C:\Users\georg\source\repos\Theme 7 - Arrays\task5 - MaxSeries\bin\Debug\netcoreapp3.1\task5 - MaxSeries.pdb
+C:\Users\georg\source\repos\Theme 7 - Arrays\task5 - MaxSeries\obj\Debug\netcoreapp3.1\task5 - MaxSeries.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\Theme 7 - Arrays\task5 - MaxSeries\obj\Debug\netcoreapp3.1\task5 - MaxSeries.AssemblyInfo.cs
+C:\Users\georg\source\repos\Theme 7 - Arrays\task5 - MaxSeries\obj\Debug\netcoreapp3.1\task5 - MaxSeries.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\Theme 7 - Arrays\task5 - MaxSeries\obj\Debug\netcoreapp3.1\task5 - MaxSeries.dll
+C:\Users\georg\source\repos\Theme 7 - Arrays\task5 - MaxSeries\obj\Debug\netcoreapp3.1\task5 - MaxSeries.pdb
+C:\Users\georg\source\repos\Theme 7 - Arrays\task5 - MaxSeries\obj\Debug\netcoreapp3.1\task5 - MaxSeries.genruntimeconfig.cache
