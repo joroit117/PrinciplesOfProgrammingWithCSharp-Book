@@ -1,0 +1,13 @@
+C:\Users\georg\source\repos\Softuni - Fundamentals with C# (Book)\Theme 7 - Arrays\task17 -  MergeSort\bin\Debug\netcoreapp3.1\task17 -  MergeSort.exe
+C:\Users\georg\source\repos\Softuni - Fundamentals with C# (Book)\Theme 7 - Arrays\task17 -  MergeSort\bin\Debug\netcoreapp3.1\task17 -  MergeSort.deps.json
+C:\Users\georg\source\repos\Softuni - Fundamentals with C# (Book)\Theme 7 - Arrays\task17 -  MergeSort\bin\Debug\netcoreapp3.1\task17 -  MergeSort.runtimeconfig.json
+C:\Users\georg\source\repos\Softuni - Fundamentals with C# (Book)\Theme 7 - Arrays\task17 -  MergeSort\bin\Debug\netcoreapp3.1\task17 -  MergeSort.runtimeconfig.dev.json
+C:\Users\georg\source\repos\Softuni - Fundamentals with C# (Book)\Theme 7 - Arrays\task17 -  MergeSort\bin\Debug\netcoreapp3.1\task17 -  MergeSort.dll
+C:\Users\georg\source\repos\Softuni - Fundamentals with C# (Book)\Theme 7 - Arrays\task17 -  MergeSort\bin\Debug\netcoreapp3.1\task17 -  MergeSort.pdb
+C:\Users\georg\source\repos\Softuni - Fundamentals with C# (Book)\Theme 7 - Arrays\task17 -  MergeSort\obj\Debug\netcoreapp3.1\task17 -  MergeSort.csprojAssemblyReference.cache
+C:\Users\georg\source\repos\Softuni - Fundamentals with C# (Book)\Theme 7 - Arrays\task17 -  MergeSort\obj\Debug\netcoreapp3.1\task17 -  MergeSort.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\Softuni - Fundamentals with C# (Book)\Theme 7 - Arrays\task17 -  MergeSort\obj\Debug\netcoreapp3.1\task17 -  MergeSort.AssemblyInfo.cs
+C:\Users\georg\source\repos\Softuni - Fundamentals with C# (Book)\Theme 7 - Arrays\task17 -  MergeSort\obj\Debug\netcoreapp3.1\task17 -  MergeSort.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\Softuni - Fundamentals with C# (Book)\Theme 7 - Arrays\task17 -  MergeSort\obj\Debug\netcoreapp3.1\task17 -  MergeSort.dll
+C:\Users\georg\source\repos\Softuni - Fundamentals with C# (Book)\Theme 7 - Arrays\task17 -  MergeSort\obj\Debug\netcoreapp3.1\task17 -  MergeSort.pdb
+C:\Users\georg\source\repos\Softuni - Fundamentals with C# (Book)\Theme 7 - Arrays\task17 -  MergeSort\obj\Debug\netcoreapp3.1\task17 -  MergeSort.genruntimeconfig.cache

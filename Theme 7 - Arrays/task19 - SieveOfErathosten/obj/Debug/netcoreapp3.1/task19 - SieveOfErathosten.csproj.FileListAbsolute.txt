@@ -1,0 +1,12 @@
+C:\Users\georg\source\repos\Softuni - Fundamentals with C# (Book)\Theme 7 - Arrays\task19 - SieveOfErathosten\bin\Debug\netcoreapp3.1\task19 - SieveOfErathosten.exe
+C:\Users\georg\source\repos\Softuni - Fundamentals with C# (Book)\Theme 7 - Arrays\task19 - SieveOfErathosten\bin\Debug\netcoreapp3.1\task19 - SieveOfErathosten.deps.json
+C:\Users\georg\source\repos\Softuni - Fundamentals with C# (Book)\Theme 7 - Arrays\task19 - SieveOfErathosten\bin\Debug\netcoreapp3.1\task19 - SieveOfErathosten.runtimeconfig.json
+C:\Users\georg\source\repos\Softuni - Fundamentals with C# (Book)\Theme 7 - Arrays\task19 - SieveOfErathosten\bin\Debug\netcoreapp3.1\task19 - SieveOfErathosten.runtimeconfig.dev.json
+C:\Users\georg\source\repos\Softuni - Fundamentals with C# (Book)\Theme 7 - Arrays\task19 - SieveOfErathosten\bin\Debug\netcoreapp3.1\task19 - SieveOfErathosten.dll
+C:\Users\georg\source\repos\Softuni - Fundamentals with C# (Book)\Theme 7 - Arrays\task19 - SieveOfErathosten\bin\Debug\netcoreapp3.1\task19 - SieveOfErathosten.pdb
+C:\Users\georg\source\repos\Softuni - Fundamentals with C# (Book)\Theme 7 - Arrays\task19 - SieveOfErathosten\obj\Debug\netcoreapp3.1\task19 - SieveOfErathosten.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\Softuni - Fundamentals with C# (Book)\Theme 7 - Arrays\task19 - SieveOfErathosten\obj\Debug\netcoreapp3.1\task19 - SieveOfErathosten.AssemblyInfo.cs
+C:\Users\georg\source\repos\Softuni - Fundamentals with C# (Book)\Theme 7 - Arrays\task19 - SieveOfErathosten\obj\Debug\netcoreapp3.1\task19 - SieveOfErathosten.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\Softuni - Fundamentals with C# (Book)\Theme 7 - Arrays\task19 - SieveOfErathosten\obj\Debug\netcoreapp3.1\task19 - SieveOfErathosten.dll
+C:\Users\georg\source\repos\Softuni - Fundamentals with C# (Book)\Theme 7 - Arrays\task19 - SieveOfErathosten\obj\Debug\netcoreapp3.1\task19 - SieveOfErathosten.pdb
+C:\Users\georg\source\repos\Softuni - Fundamentals with C# (Book)\Theme 7 - Arrays\task19 - SieveOfErathosten\obj\Debug\netcoreapp3.1\task19 - SieveOfErathosten.genruntimeconfig.cache

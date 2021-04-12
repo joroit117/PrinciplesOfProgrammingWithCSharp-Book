@@ -1,0 +1,12 @@
+C:\Users\georg\source\repos\Softuni - Fundamentals with C# (Book)\Theme 7 - Arrays\task18 - QuickSort\bin\Debug\netcoreapp3.1\task18 - QuickSort.exe
+C:\Users\georg\source\repos\Softuni - Fundamentals with C# (Book)\Theme 7 - Arrays\task18 - QuickSort\bin\Debug\netcoreapp3.1\task18 - QuickSort.deps.json
+C:\Users\georg\source\repos\Softuni - Fundamentals with C# (Book)\Theme 7 - Arrays\task18 - QuickSort\bin\Debug\netcoreapp3.1\task18 - QuickSort.runtimeconfig.json
+C:\Users\georg\source\repos\Softuni - Fundamentals with C# (Book)\Theme 7 - Arrays\task18 - QuickSort\bin\Debug\netcoreapp3.1\task18 - QuickSort.runtimeconfig.dev.json
+C:\Users\georg\source\repos\Softuni - Fundamentals with C# (Book)\Theme 7 - Arrays\task18 - QuickSort\bin\Debug\netcoreapp3.1\task18 - QuickSort.dll
+C:\Users\georg\source\repos\Softuni - Fundamentals with C# (Book)\Theme 7 - Arrays\task18 - QuickSort\bin\Debug\netcoreapp3.1\task18 - QuickSort.pdb
+C:\Users\georg\source\repos\Softuni - Fundamentals with C# (Book)\Theme 7 - Arrays\task18 - QuickSort\obj\Debug\netcoreapp3.1\task18 - QuickSort.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\Softuni - Fundamentals with C# (Book)\Theme 7 - Arrays\task18 - QuickSort\obj\Debug\netcoreapp3.1\task18 - QuickSort.AssemblyInfo.cs
+C:\Users\georg\source\repos\Softuni - Fundamentals with C# (Book)\Theme 7 - Arrays\task18 - QuickSort\obj\Debug\netcoreapp3.1\task18 - QuickSort.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\Softuni - Fundamentals with C# (Book)\Theme 7 - Arrays\task18 - QuickSort\obj\Debug\netcoreapp3.1\task18 - QuickSort.dll
+C:\Users\georg\source\repos\Softuni - Fundamentals with C# (Book)\Theme 7 - Arrays\task18 - QuickSort\obj\Debug\netcoreapp3.1\task18 - QuickSort.pdb
+C:\Users\georg\source\repos\Softuni - Fundamentals with C# (Book)\Theme 7 - Arrays\task18 - QuickSort\obj\Debug\netcoreapp3.1\task18 - QuickSort.genruntimeconfig.cache
