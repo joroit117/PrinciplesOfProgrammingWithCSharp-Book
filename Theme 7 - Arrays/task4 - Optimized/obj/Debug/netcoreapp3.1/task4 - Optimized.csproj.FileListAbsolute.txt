@@ -1,0 +1,12 @@
+C:\Users\georg\source\repos\Theme 7 - Arrays\task4 - Optimized\bin\Debug\netcoreapp3.1\task4 - Optimized.exe
+C:\Users\georg\source\repos\Theme 7 - Arrays\task4 - Optimized\bin\Debug\netcoreapp3.1\task4 - Optimized.deps.json
+C:\Users\georg\source\repos\Theme 7 - Arrays\task4 - Optimized\bin\Debug\netcoreapp3.1\task4 - Optimized.runtimeconfig.json
+C:\Users\georg\source\repos\Theme 7 - Arrays\task4 - Optimized\bin\Debug\netcoreapp3.1\task4 - Optimized.runtimeconfig.dev.json
+C:\Users\georg\source\repos\Theme 7 - Arrays\task4 - Optimized\bin\Debug\netcoreapp3.1\task4 - Optimized.dll
+C:\Users\georg\source\repos\Theme 7 - Arrays\task4 - Optimized\bin\Debug\netcoreapp3.1\task4 - Optimized.pdb
+C:\Users\georg\source\repos\Theme 7 - Arrays\task4 - Optimized\obj\Debug\netcoreapp3.1\task4 - Optimized.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\Theme 7 - Arrays\task4 - Optimized\obj\Debug\netcoreapp3.1\task4 - Optimized.AssemblyInfo.cs
+C:\Users\georg\source\repos\Theme 7 - Arrays\task4 - Optimized\obj\Debug\netcoreapp3.1\task4 - Optimized.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\Theme 7 - Arrays\task4 - Optimized\obj\Debug\netcoreapp3.1\task4 - Optimized.dll
+C:\Users\georg\source\repos\Theme 7 - Arrays\task4 - Optimized\obj\Debug\netcoreapp3.1\task4 - Optimized.pdb
+C:\Users\georg\source\repos\Theme 7 - Arrays\task4 - Optimized\obj\Debug\netcoreapp3.1\task4 - Optimized.genruntimeconfig.cache
