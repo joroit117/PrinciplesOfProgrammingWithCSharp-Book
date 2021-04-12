@@ -1,0 +1,13 @@
+C:\Users\georg\source\repos\Softuni - Fundamentals with C# (Book)\Theme 7 - Arrays\task16 - BinarySearch\bin\Debug\netcoreapp3.1\task16 - BinarySearch.exe
+C:\Users\georg\source\repos\Softuni - Fundamentals with C# (Book)\Theme 7 - Arrays\task16 - BinarySearch\bin\Debug\netcoreapp3.1\task16 - BinarySearch.deps.json
+C:\Users\georg\source\repos\Softuni - Fundamentals with C# (Book)\Theme 7 - Arrays\task16 - BinarySearch\bin\Debug\netcoreapp3.1\task16 - BinarySearch.runtimeconfig.json
+C:\Users\georg\source\repos\Softuni - Fundamentals with C# (Book)\Theme 7 - Arrays\task16 - BinarySearch\bin\Debug\netcoreapp3.1\task16 - BinarySearch.runtimeconfig.dev.json
+C:\Users\georg\source\repos\Softuni - Fundamentals with C# (Book)\Theme 7 - Arrays\task16 - BinarySearch\bin\Debug\netcoreapp3.1\task16 - BinarySearch.dll
+C:\Users\georg\source\repos\Softuni - Fundamentals with C# (Book)\Theme 7 - Arrays\task16 - BinarySearch\bin\Debug\netcoreapp3.1\task16 - BinarySearch.pdb
+C:\Users\georg\source\repos\Softuni - Fundamentals with C# (Book)\Theme 7 - Arrays\task16 - BinarySearch\obj\Debug\netcoreapp3.1\task16 - BinarySearch.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\Softuni - Fundamentals with C# (Book)\Theme 7 - Arrays\task16 - BinarySearch\obj\Debug\netcoreapp3.1\task16 - BinarySearch.AssemblyInfo.cs
+C:\Users\georg\source\repos\Softuni - Fundamentals with C# (Book)\Theme 7 - Arrays\task16 - BinarySearch\obj\Debug\netcoreapp3.1\task16 - BinarySearch.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\Softuni - Fundamentals with C# (Book)\Theme 7 - Arrays\task16 - BinarySearch\obj\Debug\netcoreapp3.1\task16 - BinarySearch.dll
+C:\Users\georg\source\repos\Softuni - Fundamentals with C# (Book)\Theme 7 - Arrays\task16 - BinarySearch\obj\Debug\netcoreapp3.1\task16 - BinarySearch.pdb
+C:\Users\georg\source\repos\Softuni - Fundamentals with C# (Book)\Theme 7 - Arrays\task16 - BinarySearch\obj\Debug\netcoreapp3.1\task16 - BinarySearch.genruntimeconfig.cache
+C:\Users\georg\source\repos\Softuni - Fundamentals with C# (Book)\Theme 7 - Arrays\task16 - BinarySearch\obj\Debug\netcoreapp3.1\task16 - BinarySearch.csprojAssemblyReference.cache
